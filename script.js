@@ -28,6 +28,8 @@ let startQuiz = document.getElementById("startQuiz");
 let finalScore = document.getElementById("score");
 let result = document.getElementById("result")
 let main = document.getElementById("que-div");
+let headerMsg = document.getElementById("header-msg");
+
 
 let questionIndex = 0;
 let score = 0;
@@ -37,6 +39,7 @@ startQuiz.addEventListener("click", showQuestion);
 main.style.display = "none";
 
 function showQuestion() {
+  headerMsg.style.display = "none";
   main.style.display = "block"
   startQuiz.style.display = "none";
   next.style.display = "none";
