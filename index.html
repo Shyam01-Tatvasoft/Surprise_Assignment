@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./bootstrap.min.css" />
+  </head>
+  <body>
+    <main class="quiz-container bg-secondary-subtle vh-100">
+      <div class="quiz-header">
+        <h2 class="text-center fs-1">Quiz App</h2>
+        <div class="mt-5 text-center">
+            <p class="text-center fs-4">Welcome To Quiz App</p>
+          <button id="startQuiz" class="btn btn-outline-success mt-5">
+            Start Quiz
+          </button>
+        </div>
+      </div>
+      <div class="border shadow border border-black rounded-3 p-3 mx-3" id="que-div">
+        <div id="question" class="fs-2 fw-bold"></div>
+        <div id="options" class="fs-4"></div>
+        <div id="result"></div>
+        <div class="d-flex align-item-center">
+            <button id="next" class="btn btn-outline-success mt-2">Next Question</button>
+          </div>
+    </div>
+
+      
+      <div id="score" class=" text-center fs-1 fw-bold text-success"></div>
+    </main>
+    <script src="script.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+  </body>
+</html>
