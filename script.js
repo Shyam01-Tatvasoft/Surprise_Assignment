@@ -19,6 +19,11 @@ let quizQuestions = [
     options: ["10", "2", "4", "6"],
     answer: "6",
   },
+  {
+    question: "What is 33 / 11?",
+    options: ["10", "2", "3", "6"],
+    answer: "3",
+  },
 ];
 
 let questionContainer = document.getElementById("question");
@@ -101,6 +106,6 @@ function showNextQuestion() {
     next.style.display = "none";
   } else {
     main.style.display = "none";
-    finalScore.innerHTML = `Your score is ${score}`;
+    finalScore.innerHTML = `Your score is ${score} / 5`;
   }
 }
