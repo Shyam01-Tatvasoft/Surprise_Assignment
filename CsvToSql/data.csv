@@ -1,0 +1,6 @@
+RollNumber,Name,MobileNumber,City,Address,Email,Pincode
+101,John Doe,9876543210,Mumbai,Street mailto:1,johndoe@example.com,400001
+102,Jane Smith,9123456789,Pune,Street mailto:2,janesmith@example.com,411045
+103,Sam Brown,8123456789,Delhi,Street 3,,110001,
+104,Lily Evans,+919876543210,Kolkata,Street mailto:4,lilyevans@example.com,700012
+105,Peter Parker,7000123456,Chennai,Street mailto:5,peter@example.com,6000011
