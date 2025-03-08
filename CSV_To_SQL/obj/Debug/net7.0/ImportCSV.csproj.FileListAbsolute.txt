@@ -1,0 +1,234 @@
+D:\Assignments\ImportCSV\bin\Debug\net7.0\appsettings.Development.json
+D:\Assignments\ImportCSV\bin\Debug\net7.0\appsettings.json
+D:\Assignments\ImportCSV\bin\Debug\net7.0\ImportCSV.staticwebassets.runtime.json
+D:\Assignments\ImportCSV\bin\Debug\net7.0\ImportCSV.exe
+D:\Assignments\ImportCSV\bin\Debug\net7.0\ImportCSV.deps.json
+D:\Assignments\ImportCSV\bin\Debug\net7.0\ImportCSV.runtimeconfig.json
+D:\Assignments\ImportCSV\bin\Debug\net7.0\ImportCSV.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\ImportCSV.pdb
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.AssemblyInfoInputs.cache
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.AssemblyInfo.cs
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.csproj.CoreCompileInputs.cache
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.MvcApplicationPartsAssemblyInfo.cache
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.RazorAssemblyInfo.cache
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.RazorAssemblyInfo.cs
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.ImportCSV.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.build.ImportCSV.props
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImportCSV.props
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImportCSV.props
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets.build.json
+D:\Assignments\ImportCSV\obj\Debug\net7.0\staticwebassets.development.json
+D:\Assignments\ImportCSV\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Assignments\ImportCSV\obj\Debug\net7.0\scopedcss\bundle\ImportCSV.styles.css
+D:\Assignments\ImportCSV\obj\Debug\net7.0\scopedcss\projectbundle\ImportCSV.bundle.scp.css
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.dll
+D:\Assignments\ImportCSV\obj\Debug\net7.0\refint\ImportCSV.dll
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.pdb
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.genruntimeconfig.cache
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ref\ImportCSV.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Azure.Core.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Azure.Identity.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\CsvHelper.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Humanizer.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Npgsql.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.CodeDom.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Assignments\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.csproj.AssemblyReference.cache
+D:\Assignments\ImportCSV\obj\Debug\net7.0\ImportCSV.csproj.CopyComplete
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\appsettings.Development.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\appsettings.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\ImportCSV.staticwebassets.runtime.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\ImportCSV.exe
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\ImportCSV.deps.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\ImportCSV.runtimeconfig.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\ImportCSV.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\ImportCSV.pdb
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Azure.Core.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Azure.Identity.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\CsvHelper.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Humanizer.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Npgsql.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.CodeDom.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.csproj.AssemblyReference.cache
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.AssemblyInfoInputs.cache
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.AssemblyInfo.cs
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.csproj.CoreCompileInputs.cache
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.MvcApplicationPartsAssemblyInfo.cache
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.RazorAssemblyInfo.cache
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.RazorAssemblyInfo.cs
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.ImportCSV.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.build.ImportCSV.props
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImportCSV.props
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImportCSV.props
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets.build.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\staticwebassets.development.json
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\scopedcss\bundle\ImportCSV.styles.css
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\scopedcss\projectbundle\ImportCSV.bundle.scp.css
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.csproj.CopyComplete
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\refint\ImportCSV.dll
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.pdb
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ImportCSV.genruntimeconfig.cache
+E:\Internship Tatvasoft\Surprise_Assignment\ImportCSV\obj\Debug\net7.0\ref\ImportCSV.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\appsettings.Development.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\appsettings.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\ImportCSV.staticwebassets.runtime.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\ImportCSV.exe
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\ImportCSV.deps.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\ImportCSV.runtimeconfig.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\ImportCSV.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\ImportCSV.pdb
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Azure.Core.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Azure.Identity.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\CsvHelper.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Humanizer.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Npgsql.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.CodeDom.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.csproj.AssemblyReference.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.AssemblyInfoInputs.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.AssemblyInfo.cs
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.csproj.CoreCompileInputs.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.MvcApplicationPartsAssemblyInfo.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.RazorAssemblyInfo.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.RazorAssemblyInfo.cs
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets\msbuild.ImportCSV.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets\msbuild.build.ImportCSV.props
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ImportCSV.props
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ImportCSV.props
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets.build.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\staticwebassets.development.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\scopedcss\bundle\ImportCSV.styles.css
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\scopedcss\projectbundle\ImportCSV.bundle.scp.css
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.csproj.CopyComplete
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\refint\ImportCSV.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.pdb
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ImportCSV.genruntimeconfig.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CSV_To_SQL\obj\Debug\net7.0\ref\ImportCSV.dll
