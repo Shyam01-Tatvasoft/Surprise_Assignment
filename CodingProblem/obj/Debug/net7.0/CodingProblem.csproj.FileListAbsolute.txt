@@ -1,0 +1,14 @@
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\bin\Debug\net7.0\CodingProblem.exe
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\bin\Debug\net7.0\CodingProblem.deps.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\bin\Debug\net7.0\CodingProblem.runtimeconfig.json
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\bin\Debug\net7.0\CodingProblem.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\bin\Debug\net7.0\CodingProblem.pdb
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.AssemblyInfoInputs.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.AssemblyInfo.cs
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.csproj.CoreCompileInputs.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\refint\CodingProblem.dll
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.pdb
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\CodingProblem.genruntimeconfig.cache
+E:\Internship Tatvasoft\Internship_Assignments\Surprise_Assignment\CodingProblem\obj\Debug\net7.0\ref\CodingProblem.dll
