@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery with Filters</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="buttons">
+        <button data-filter="all">All</button>
+        <button data-filter="nature">Nature</button>
+        <button data-filter="animals">Animals</button>
+        <button data-filter="architecture">Architecture</button>
+    </div>
+
+    <div class="gallery">
+        <div class="image nature"><img src="./carlos-torres-8pa1S7t172c-unsplash.jpg" alt="Nature 1"><div class="title">Nature 1</div></div>
+        <div class="image nature"><img src="./simon-berger-aZjw7xI3QAA-unsplash.jpg" alt="Nature 2"><div class="title">Nature 2</div></div>
+        <div class="image animals"><img src="./joel-herzog-ny_5l4QKBnE-unsplash.jpg" alt="Animal 1"><div class="title">Animal 1</div></div>
+        <div class="image animals"><img src="./gwen-weustink-I3C1sSXj1i8-unsplash.jpg" alt="Animal 2"><div class="title">Animal 2</div></div>
+        <div class="image architecture"><img src="./tomas-martinez-ahxBM34AZ1o-unsplash.jpg" alt="Architecture 1"><div class="title">Architecture 1</div></div>
+        <div class="image architecture"><img src="./scott-webb-o_F5VsjQp38-unsplash.jpg" alt="Architecture 2"><div class="title">Architecture 2</div></div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('.image').fadeIn(); // Show all images on load
+            $('.buttons button').click(function() {
+                let filter = $(this).attr('data-filter');
+                
+                $('.image').fadeOut(300, function() {
+                    if (filter === 'all') {
+                        $('.image').fadeIn(300);
+                    } else {
+                        $('.' + filter).fadeIn(300);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
